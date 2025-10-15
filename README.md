@@ -16,6 +16,13 @@ Edit the `Main.java` file and:
 3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
 
 **Answer:**
+Overloading vs Overriding
+- Overloading:
+ Occurs when multiple methods have the same name but different parameters.
+ Example: The constructors in SimpleLocation are overloaded.
+- Overriding:
+ Happens when a subclass provides its own version of a method defined in a superclass.
+ Example: In Project2_Shapes, the 'draw()' method in Circle overrides the one in Shape.
 > _Write your explanation here..._
 
 ---
